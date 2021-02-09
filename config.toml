@@ -1,0 +1,4 @@
+baseURL = "https://curtain-cuurety33.vercel.app"
+languageCode = "en-us"
+title = "Blue Curtains USA"
+theme = "hugo-theme-minos"
